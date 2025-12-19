@@ -1,8 +1,4 @@
 # intro-analisis-datos-mood-tracker
-Una aplicación de seguimiento del estado de ánimo desarrollada con App Inventor como proyecto del curso "Introducción al Análisis de Datos". Permite a los usuarios registrar y visualizar sus emociones a lo largo del tiempo.
-
-
-# Mood Tracker - App Inventor
 
 Este proyecto fue desarrollado como parte del curso **"Introducción al Análisis de Datos"** en TCPRO. Consiste en una aplicación móvil para el seguimiento del estado de ánimo, creada con **App Inventor**, que permite a los usuarios registrar cómo se sienten diariamente y visualizar sus patrones emocionales.
 
